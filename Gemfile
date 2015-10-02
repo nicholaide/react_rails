@@ -46,3 +46,6 @@ group :development do
   gem 'spring'
 end
 
+#react
+gem 'react-rails', '~> 1.3.0'
+gem 'showdown-rails'
